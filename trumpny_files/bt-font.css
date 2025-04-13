@@ -1,0 +1,90 @@
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-RomanBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-RomanBody.woff2') format('woff2'),
+    url('/nocache-assets/SequelSans-RomanBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-RomanBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-RomanBody.svg') format('svg');
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-Body.woff') format('woff'),
+    url('/nocache-assets/SequelSans-Body.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 500;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-ObliqueBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-ObliqueBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-ObliqueBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-ObliqueBody.svg') format("svg");
+    font-style: oblique;
+    font-weight: 500;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-BoldBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-BoldBody.woff2') format('woff2'),
+    url('/nocache-assets/SequelSans-BoldBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-BoldBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-BoldBody.svg') format("svg");
+    font-style: normal;
+    font-weight: 600;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-BoldOblBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-BoldOblBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-BoldOblBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-BoldOblBody.svg') format("svg");
+    font-style: oblique;
+    font-weight: 600;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-BlackBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-BlackBody.woff2') format('woff2'),
+    url('/nocache-assets/SequelSans-BlackBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-BlackBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-BlackBody.svg') format("svg");
+    font-style: normal;
+    font-weight: 700;
+    font-display: block;
+}
+
+@font-face {
+    font-family: SequelSans;
+    src: url('/nocache-assets/SequelSans-BlackOblBody.woff') format('woff'),
+    url('/nocache-assets/SequelSans-BlackOblBody.woff2') format('woff2'),
+    url('/nocache-assets/SequelSans-BlackOblBody.eot') format('embedded-opentype'),
+    url('/nocache-assets/SequelSans-BlackOblBody.ttf') format('truetype'),
+    url('/nocache-assets/SequelSans-BlackOblBody.svg') format("svg");
+    font-style: oblique;
+    font-weight: 700;
+    font-display: block;
+}
+
+@font-face {
+    font-family: bt-icons;
+    src: url('/nocache-assets/bt-icons.woff2') format('woff2'),
+    url('/nocache-assets/bt-icons.woff') format('woff'),
+    url('/nocache-assets/bt-icons.eot') format('embedded-opentype'),
+    url('/nocache-assets/bt-icons.ttf') format('truetype'),
+    url('/nocache-assets/bt-icons.svg') format("svg");
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+}
