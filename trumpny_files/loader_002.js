@@ -1,0 +1,2 @@
+(async()=>{const t=document?.currentScript?.getAttribute("data-product"),e="https://common-production-jscdn.s3.eu-west-1.amazonaws.com/idm/production/reactcomponents/headless-toasters";if(!t)throw new Error("Brand not provided");const o=await fetch(`${e}/manifest.json`),n=await o.json(),a=document.createElement("script");a.type="text/javascript",a.src=`${e}/main.${n.version}.js`,a.setAttribute("data-product",t),document.head.appendChild(a)})();
+//# sourceMappingURL=loader.js.map

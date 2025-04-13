@@ -1,0 +1,2 @@
+(async()=>{const t="https://common-production-jscdn.s3.eu-west-1.amazonaws.com/idm/production/reactcomponents/user-flows",n=document?.currentScript?.getAttribute("data-product");if(!n)throw new Error("Brand not provided");window.__DATA_PRODUCT__=n,await fetch(`${t}/manifest.json`).then((t=>t.json())).then((n=>{const e=document.createElement("script");e.type="text/javascript",e.src=`${t}/main.${n.version}.js`,document.head.appendChild(e)}))})();
+//# sourceMappingURL=loader.js.map
